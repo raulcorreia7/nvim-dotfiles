@@ -6,3 +6,6 @@ debug
 foo.*
 *.log
 data
+
+# Theme Browser (dev only)
+lua/plugins/theme_browser.lua
